@@ -11,8 +11,12 @@ This is a "Coming Soon" page built using Next.js. The page features a countdown 
 ## Technologies Used
 
 - Next.js
-- React
 - Tailwind CSS
+- Next js with app routing
+- Type checking with typescript
+- Form handling with react hook form
+- Validation library with Zod
+- Code formatter with prettier
 - JSONPlaceholder (for mock API)
 
 ## Getting Started
